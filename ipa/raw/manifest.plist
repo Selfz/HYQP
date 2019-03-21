@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://github.com/Selfz/HYQP/raw/master/ipa/raw/SparrowCS-mobile.ipa</string>
+					<string>https://zxw-1253433194.cos.ap-chengdu.myqcloud.com/SparrowCS-mobile.ipa?q-sign-algorithm=sha1&amp;q-ak=AKIDtVdfdEp7o74f4HSVKqCkYzKbjiRFZWwj&amp;q-sign-time=1553139878;1553141678&amp;q-key-time=1553139878;1553141678&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=3ab5e7662b0915a1a17f1b1d303df5209a41de55&amp;x-cos-security-token=862c899e191b5527934d83c127a6c8700224d8e110001</string>
 				</dict>
 				<dict>
 					<key>kind</key>
