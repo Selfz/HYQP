@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://zxw-1253433194.cos.ap-chengdu.myqcloud.com/SparrowCS-mobile-resigned.ipa?q-sign-algorithm=sha1&amp;q-ak=AKIDN45HDiiufW9VyhytPTdeOK2hVtdcxMLb&amp;q-sign-time=1554343948;1554345748&amp;q-key-time=1554343948;1554345748&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=90e22f05f7b08263a7c7859cde682b5f941edcc6&amp;x-cos-security-token=0e309b85ff1573d0d7d9a298ef93610fca25071e10001</string>
+					<string>https://zxw-1253433194.cos.ap-chengdu.myqcloud.com/SparrowCS-mobile.ipa?q-sign-algorithm=sha1&amp;q-ak=AKIDwE0jR5b6DPDc2WYi8Dta4ylyAQCOXkCD&amp;q-sign-time=1554344898;1554346698&amp;q-key-time=1554344898;1554346698&amp;q-header-list=&amp;q-url-param-list=&amp;q-signature=44d0491abbdb6334a74761ccea9902ef3f1f1924&amp;x-cos-security-token=f8e69379a41ecbb38c31ae61c9d25f260d3b7b4210001</string>
 				</dict>
 				<dict>
 					<key>kind</key>
